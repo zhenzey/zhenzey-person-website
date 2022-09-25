@@ -1,6 +1,6 @@
 ---
 role: PhD student
-avatar_filename: unadjustednonraw_thumb_1d6.jpg
+avatar_filename: UNADJUSTEDNONRAW_thumb_1d6.jpg
 bio: "My research interests include computational materials science, multiscale
   modeling and machine learning "
 interests:
