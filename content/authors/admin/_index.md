@@ -12,7 +12,7 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: graduation-cap
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=JzIa9gEAAAAJ
   - icon: github
     icon_pack: fab
@@ -29,7 +29,7 @@ organizations:
   - name: MIT
 education:
   courses:
-    - course: PhD in Materials Science and Engineering
+    - course: PhD in Materials Science
       institution: MIT
       year: ""
     - course: BSc in Physics
