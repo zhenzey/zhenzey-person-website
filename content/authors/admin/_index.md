@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Materials Science
       institution: MIT
-      year: ""
+      year: 2024
     - course: BSc in Physics
       institution: "University of Chinese Academy of Sciences "
       year: 2019
