@@ -1,10 +1,9 @@
 ---
 widget: about
-widget_id: RECENT-POSTS
+widget_id: authors
 headless: true
 weight: 20
 title: Biography
 active: true
 author: admin
 ---
-I am currently a PhD student
