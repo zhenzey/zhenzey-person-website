@@ -26,7 +26,7 @@ experience:
     company: MIT
     company_url: ''
     company_logo: org-x
-    date_start: '2019-09'
+    date_start: '2019-09-01'
     date_end: ''
     description: Interdisciplinary research using ML for materials science. 
 
@@ -34,32 +34,32 @@ experience:
     company: UC Berkeley
     company_url: ''
     company_logo: org-gc
-    date_start: '2018-09'
-    date_end: '2019-02'
+    date_start: '2018-09-01'
+    date_end: '2019-02-01'
     description: Modeling research of chromatin folding.
 
   - title: Undergraduate Research Assistant 
     company: MIT
     company_url: ''
     company_logo: org-x
-    date_start: '2018-06'
-    date_end: '2018-09'
+    date_start: '2018-06-01'
+    date_end: '2018-09-01'
     description: Optimization development of polymer assemblies.
 
   - title: Undergraduate Research Assistant 
     company: Institute of Physics, CAS
     company_url: ''
     company_logo: org-gc
-    date_start: '2017-09'
-    date_end: '2019-06'
+    date_start: '2017-09-01'
+    date_end: '2019-06-01'
     description: Computational and experimental research for water droplet wetting and selective transport via nuclear pore complex.
     
   - title: Undergraduate Research Assistant 
     company: Technical Institute of Physics and Chemistry, CAS
     company_url: ''
     company_logo: org-gc
-    date_start: '2017-07'
-    date_end: '2017-10'
+    date_start: '2017-07-01'
+    date_end: '2017-10-01'
     description: Experimental research on liquid metal droplets.
     
 design:
