@@ -25,7 +25,7 @@ experience:
   - title: Graduate Research Assistant
     company: MIT
     company_url: ''
-    company_logo: org-x
+    company_logo: org-mit
     date_start: '2019-09-01'
     date_end: ''
     description: Interdisciplinary research using ML for materials science. 
