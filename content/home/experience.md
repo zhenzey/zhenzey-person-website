@@ -22,29 +22,46 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Research Assistant
+    company: MIT
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: org-mit
+    date_start: '2019-09'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Interdisciplinary research using ML for materials science. 
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Undergraduate Research Assistant 
+    company: UC Berkeley
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-ucb
+    date_start: '2018-09'
+    date_end: '2019-02'
+    description: Modeling research of chromatin folding.
 
+  - title: Undergraduate Research Assistant 
+    company: MIT
+    company_url: ''
+    company_logo: org-mit
+    date_start: '2018-06'
+    date_end: '2018-09'
+    description: Optimization development of polymer assemblies.
+
+  - title: Undergraduate Research Assistant 
+    company: Institute of Physics, CAS
+    company_url: ''
+    company_logo: org-iop
+    date_start: '2017-09'
+    date_end: '2019-06'
+    description: Computational and experimental research for water droplet wetting and selective transport via nuclear pore complex.
+    
+  - title: Undergraduate Research Assistant 
+    company: Technical Institute of Physics and Chemistry, CAS
+    company_url: ''
+    company_logo: org-tipc
+    date_start: '2017-07'
+    date_end: '2017-10'
+    description: Experimental research on liquid metal droplets.
+    
 design:
-  columns: '2'
+  columns: '5'
 ---
