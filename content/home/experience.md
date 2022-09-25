@@ -63,5 +63,5 @@ experience:
     description: Experimental research on liquid metal droplets.
     
 design:
-  columns: '5'
+  columns: '2'
 ---
