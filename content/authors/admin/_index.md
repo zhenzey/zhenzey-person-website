@@ -10,19 +10,21 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: zhenzey@mit.edu
   - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    icon_pack: fab
+    link: https://scholar.google.com/citations?hl=en&user=JzIa9gEAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/zhenzey
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/zhenze-yang-31107b16a/
+  - display:
+      header: false
+    link: https://twitter.com/yang_zhenze
+    icon_pack: fab
+    icon: twitter
 organizations:
   - name: MIT
 education:
