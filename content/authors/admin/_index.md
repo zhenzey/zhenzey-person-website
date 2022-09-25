@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: \*contact
+    link: /#contact
   - icon: graduation-cap
     icon_pack: fab
     link: https://scholar.google.com/citations?hl=en&user=JzIa9gEAAAAJ
