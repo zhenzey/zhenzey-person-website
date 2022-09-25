@@ -33,7 +33,7 @@ experience:
   - title: Undergraduate Research Assistant 
     company: UC Berkeley
     company_url: ''
-    company_logo: org-ucb
+    company_logo: org-gc
     date_start: '2018-09'
     date_end: '2019-02'
     description: Modeling research of chromatin folding.
@@ -49,7 +49,7 @@ experience:
   - title: Undergraduate Research Assistant 
     company: Institute of Physics, CAS
     company_url: ''
-    company_logo: org-iopo
+    company_logo: org-gc
     date_start: '2017-09'
     date_end: '2019-06'
     description: Computational and experimental research for water droplet wetting and selective transport via nuclear pore complex.
@@ -57,7 +57,7 @@ experience:
   - title: Undergraduate Research Assistant 
     company: Technical Institute of Physics and Chemistry, CAS
     company_url: ''
-    company_logo: org-tipc
+    company_logo: org-gc
     date_start: '2017-07'
     date_end: '2017-10'
     description: Experimental research on liquid metal droplets.
