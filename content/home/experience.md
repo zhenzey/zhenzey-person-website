@@ -25,7 +25,7 @@ experience:
   - title: Graduate Research Assistant
     company: MIT
     company_url: ''
-    company_logo: org-mit
+    company_logo: org-x
     date_start: '2019-09'
     date_end: ''
     description: Interdisciplinary research using ML for materials science. 
@@ -41,7 +41,7 @@ experience:
   - title: Undergraduate Research Assistant 
     company: MIT
     company_url: ''
-    company_logo: org-mit
+    company_logo: org-x
     date_start: '2018-06'
     date_end: '2018-09'
     description: Optimization development of polymer assemblies.
