@@ -1,9 +1,9 @@
 
 ---
 title: Crystalline solids 
-summary: DL approaches to accelerate strain/stress field predictions of hierarchical composites. 
+summary: GNN-based approach to predict atomic properties (e.g. atomic stress/energy) from structural defects distribution for crystalline solids. 
 tags:
-  - Continuum
+  - Atomic
 
 
 # Optional external URL for project (replaces project detail page).
