@@ -37,7 +37,7 @@ image:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://na.eventscloud.com/website/33592/home/'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
