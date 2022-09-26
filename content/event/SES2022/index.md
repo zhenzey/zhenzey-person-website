@@ -1,18 +1,18 @@
 
 ---
-title: Deep Learning Model to Predict Complex Stress and Strain Fields in Hierarchical Composites
+title: High-throughput Generation of Three-dimensional Graphene Metamaterials and Property Quantification Using Machine Learning
 
-event: USNCCM16
-event_url: ""
+event: SES2022
+event_url: 'https://na.eventscloud.com/website/33592/home/'
 
-location: remote
+location: College station, Texas
 
 summary: ""
-abstract: ""
+abstract: '3D graphene assemblies are proposed as solutions to meet the goal toward efficient utilization of 2D graphene sheets, showing excellent performances in applications such as mechanical support, energy storage, and electrochemical catalysis. However, given the diversity and complexity of possible graphene 3D structures, there does not yet exist a systematic approach that can generate target 3D shapes and also, evaluate their performance. Here high-throughput data generation is combined with artificial intelligence approaches to realize rapid structure formation and property quantification of 3D graphene foams with mathematically controlled topologies, driven by molecular dynamics simulations. More than 4000 different foam structures are created, which feature diverse topologies that contain potential pathways for small molecules and auxetic structures with negative Poisson’s ratio. Empowered by machine learning (ML) algorithms including graph neural networks, not only global properties such as elastic moduli, but also local behaviors such as atomic stress can be predicted and optimized based on their atomic structure, bypassing expensive atomistic simulations. The key findings of the research reported in this paper include a high-throughput virtual framework of generating diverse 3D graphene assemblies with mechanical performances quantification, and highly efficient methods of evaluating physical properties based on ML.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-06-05T16:00:00Z'
+date: '2022-10-18T16:30:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -37,7 +37,7 @@ image:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 'https://www.dropbox.com/s/inmjbqanjpnoq0g/Yang%20%E2%80%93%20USNCCM16%20%E2%80%93%2021721532.mp4?dl=0'
+url_video: 'https://unsplash.com/photos/bzdhc5b3Bxs'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -54,5 +54,3 @@ url_video: 'https://www.dropbox.com/s/inmjbqanjpnoq0g/Yang%20%E2%80%93%20USNCCM1
 projects:
   - example
 ---
-
-
