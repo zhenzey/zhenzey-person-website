@@ -16,9 +16,9 @@ image:
 
 
 links:
-  - name: Related paper
+  - name: Related paper (Sci. Adv., 2021)
     url: https://www.science.org/doi/abs/10.1126/sciadv.abd7416
-  - name: Related paper
+  - name: Related paper (JMPS, 2021)
     url: https://www.sciencedirect.com/science/article/pii/S0022509621001721   
 url_code: ''
 url_pdf: ''
