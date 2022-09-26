@@ -11,6 +11,7 @@ external_link: https://news.mit.edu/2021/ai-materials-stress-strain-0422
 image:
   caption: MIT news
   focal_point: Bottom
+  {{ $image := $image.Resize "600x400" }}
 
 
 links:
