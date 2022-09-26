@@ -8,10 +8,13 @@ tags:
 # Optional external URL for project (replaces project detail page).
 external_link: https://news.mit.edu/2021/ai-materials-stress-strain-0422
 
-image:
-  caption: MIT news
-  focal_point: Bottom
-{{ $image := $image.Resize "600x400" }}
+# image:
+#  caption: MIT news
+#  focal_point: Bottom
+  
+{{ $image := .Resources.GetMatch "sunset.jpg" }}
+<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+
 links:
   - icon: graduation-cap
     icon_pack: fab
