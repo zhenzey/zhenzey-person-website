@@ -14,6 +14,8 @@ image:
   focal_point: Smart
 
 links:
+  - name: Code
+    url: https://github.com/lamm-mit/atomic2field
   - name: Related paper (Npj. Comput. Mater., 2022)
     url: https://www.nature.com/articles/s41524-022-00879-4
 url_code: 'https://github.com/lamm-mit/atomic2field'
