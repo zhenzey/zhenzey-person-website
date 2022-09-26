@@ -10,8 +10,8 @@ external_link: https://news.mit.edu/2021/ai-materials-stress-strain-0422
 
 image:
   caption: MIT news
-  focal_point: Center
-  placement: 1
+  focal_point: Bottom
+
 
 links:
   - icon: graduation-cap
