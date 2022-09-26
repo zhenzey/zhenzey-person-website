@@ -14,10 +14,8 @@ image:
   focal_point: Smart
 
 links:
-  - icon: graduation-cap
-    icon_pack: fab
-    name: Related paper
-    url: https://www.science.org/doi/abs/10.1126/sciadv.abd7416
+  - name: Related paper (Npj. Comput. Mater., 2022)
+    url: https://www.nature.com/articles/s41524-022-00879-4
 url_code: ''
 url_pdf: ''
 url_slides: ''
