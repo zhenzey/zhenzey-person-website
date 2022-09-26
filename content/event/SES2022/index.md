@@ -1,9 +1,9 @@
 
 ---
-title: HT Generation of 3D Graphene Metamaterials and Property Quantification Using Machine Learning
+title: High-throughput Generation of 3D Graphene Metamaterials and Property Quantification Using Machine Learning
 
 event: SES2022
-event_url: 'https://na.eventscloud.com/website/33592/home/'
+event_url: https://na.eventscloud.com/website/33592/home/
 
 location: College station, Texas
 
