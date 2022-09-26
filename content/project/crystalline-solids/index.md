@@ -1,6 +1,6 @@
 
 ---
-title: Crystalline solids 
+title: DL for Crystalline solids 
 summary: GNN-based approach to predict atomic properties (e.g. atomic stress/energy) from structural defects distribution for crystalline solids. 
 tags:
   - Atomic
