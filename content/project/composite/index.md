@@ -1,6 +1,6 @@
 ---
 title: Composite microstructures 
-summary: We utilize cGAN-based approach for direct translation from composite microstructures to strain/stress fields with image-based representation, serving as accelerated alternatives to conventional numerical simulations such as FEM. 
+summary: We utilized cGAN-based approach for direct translation from composite microstructures to strain/stress fields, serving as an alternative to conventional numerical simulations such as FEM. 
 tags:
   - Continuum
 
