@@ -1,6 +1,6 @@
 ---
 title: Composite microstructures 
-summary: DL approaches to accelerate strain/stress field predictions of hierarchical composites. We utilize conditional GAN-based approach for direct translation from composite microstructures to the strain/stress fields using image-based representation, serving as accelerated alternatives to conventional numerical simulations such as finite element analysis (FEA). 
+summary: DL approaches to accelerate strain/stress field predictions of hierarchical composites. 
 tags:
   - Continuum
 
