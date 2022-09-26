@@ -1,7 +1,7 @@
 
 ---
 title: HT generation of graphene foams 
-summary: High-throughput (HL) generation of graphene foams and property quantification using both ML and DL.
+summary: High-throughput (HT) generation of graphene foams and property quantification using both ML and DL.
 tags:
   - Atomic
 
