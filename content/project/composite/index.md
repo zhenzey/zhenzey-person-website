@@ -8,7 +8,7 @@ tags:
 # Optional external URL for project (replaces project detail page).
 external_link: https://news.mit.edu/2021/ai-materials-stress-strain-0422
 
- image:
+image:
   caption: MIT news
   focal_point: Smart
   
