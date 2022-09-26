@@ -12,8 +12,8 @@ external_link: https://news.mit.edu/2021/ai-materials-stress-strain-0422
 #  caption: MIT news
 #  focal_point: Bottom
   
-{{ $image := .Resources.GetMatch "sunset.jpg" }}
-<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+{{ $image := .Resources.GetMatch "icon.png" }}
+
 
 links:
   - icon: graduation-cap
