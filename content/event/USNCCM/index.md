@@ -6,8 +6,8 @@ event_url: ""
 
 location: remote
 
-summary:
-abstract:''
+summary:a
+abstract:'a'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
