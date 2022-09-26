@@ -40,9 +40,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Paper Link
+   url: https://aip.scitation.org/doi/figure/10.1063/5.0097589
 
 url_pdf: ''
 url_code: ''
