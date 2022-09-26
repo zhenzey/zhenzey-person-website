@@ -1,5 +1,5 @@
 ---
-title: DL for Composite microstructures 
+title: DL for Composite Microstructures 
 summary: cGAN model for direct translation from composite microstructures to strain/stress fields, serving as an alternative to conventional numerical simulations such as FEM. 
 tags:
   - Continuum
