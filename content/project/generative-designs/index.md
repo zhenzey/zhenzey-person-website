@@ -1,6 +1,7 @@
 ---
 title: Generative designs of diverse materials
 summary: Generative networks used to design diverse materials from architected materials to biological materials.
+tags:
   - Atomic
   - Continuum
 
