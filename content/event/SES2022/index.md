@@ -1,6 +1,6 @@
 
 ---
-title: High-throughput Generation of Three-dimensional Graphene Metamaterials and Property Quantification Using Machine Learning
+title: HT Generation of 3D Graphene Metamaterials and Property Quantification Using Machine Learning
 
 event: SES2022
 event_url: 'https://na.eventscloud.com/website/33592/home/'
@@ -37,7 +37,7 @@ image:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 'https://unsplash.com/photos/bzdhc5b3Bxs'
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
