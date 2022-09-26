@@ -29,10 +29,9 @@ publication_types: ['2']
 publication: In *Npj Computational Materials*
 publication_short: In *Npj Comput. Mater.*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: Structural defects are abundant in solids, and vital to the macroscopic materials properties. However, a defect-property linkage typically requires significant efforts from experiments or simulations, and often contains limited information due to the breadth of nanoscopic design space. Here we report a graph neural network (GNN)-based approach to achieve direct translation between mesoscale crystalline structures and atom-level properties, emphasizing the effects of structural defects. Our end-to-end method offers great performance and generality in predicting both atomic stress and potential energy of multiple systems with different defects. Furthermore, the approach also precisely captures derivative properties which strictly observe physical laws and reproduces evolution of properties with varying boundary conditions. By incorporating a genetic algorithm, we then design de novo atomic structures with optimum global properties and target local patterns. The method would significantly enhance the efficiency of evaluating atomic behaviors given structural imperfections and accelerates the design process at the meso-level.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
