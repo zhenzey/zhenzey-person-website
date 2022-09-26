@@ -14,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2022-09-17'
-doi: ''
+doi: 'https://doi.org/10.1038/s41524-022-00879-4'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -42,7 +42,9 @@ featured: true
 links:
   - name: Paper Link
     url: https://www.nature.com/articles/s41524-022-00879-4
-
+  - name: Code
+    url: https://github.com/lamm-mit/atomic2field
+    
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -83,4 +85,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
