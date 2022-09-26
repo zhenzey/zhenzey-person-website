@@ -39,9 +39,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+  - name: Paper Link
+    url: https://www.nature.com/articles/s41524-022-00879-4
 
 url_pdf: ''
 url_code: ''
