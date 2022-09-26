@@ -1,15 +1,15 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Composite microstructures 
+summary: DL approaches to accelerate strain/stress field predictions of hierarchical composites. 
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Continuum
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: MIT news
   focal_point: Smart
 
 links:
