@@ -1,13 +1,20 @@
 ---
-title: 'Rapid mechanical property prediction and de novo design of three-dimensional spider webs through graph and GraphPerceiver neural networks'
+title: 'Hierarchical Multiresolution Design of Bioinspired Structural Composites Using Progressive Reinforcement Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Wei Lu
-  - admin
-  - Markus J. Buehler
+ - Chi-Hua Yu -
+ - Bor-Yann Tseng 
+ - admin 
+ - Cheng-Che Tung 
+ - Elena Zhao 
+ - Zhi-Fan Ren
+ - Sheng-Sheng Yu 
+ - Po-Yu Chen
+ - Chuin-Shan Chen
+ - Markus J. Buehler
 
 # Author notes (optional)
 # author_notes:
@@ -15,7 +22,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2022-08-17'
-doi: ''
+doi: 'https://doi.org/10.1002/adts.202200459'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -27,10 +34,10 @@ doi: ''
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Applied Physics*
-publication_short: In *JAP*
+publication: In *Advanced Theory and Simulations*
+publication_short: In *Adv. Theory Simul.*
 
-abstract: Spider webs feature advanced structural performance due to the evolutionary success of over more than 3 × 109 years, including lightweight design and exceptional mechanical properties. Spider webs are appealing for bio-inspired design since web designs serve multiple functions including mechanical protection and prey catching. However, high computational cost and limited quantified web properties render extensive spider web studies challenging in part due to the high structural complexity and randomness of fiber arrangements in 3D webs. Here, we report a computational method to relate spider web graph microstructures to effective mechanical properties, focusing on strength and toughness, and upscaling from the microscopic to the mesoscale level. The new computational framework uses deep neural networks, trained on graph-structured Cyrtophora citricola spider web mechanical data, in order to capture complex cross-scale structural relationships. Three different models are developed and compared. First, two Graph Neural Network (GNN) models, a Graph Convolutional Network, and a Principal Neighborhood Aggregation method. Second, a GraphPerceiver transformer model that is fed similar input data as provided to the GNN approach but within a natural language modeling context using self-attention mechanisms. The GraphPerceiver model can achieve similar performance as the GNN model, offering added flexibility for building deep learning models of diverse hierarchical biological materials. As an application of the model, we propose a computational optimization tool for synthetic web design that is used to generate synthetic, de novo spider web architectures. Finally, multi-objective optimization enables us to discover web structures that meet specific mechanical properties as design objectives.
+abstract: A new method using reinforcement learning for designing bioinspired composite materials is proposed. While bioinspired design of materials is a promising avenue, the possible combination of building blocks in a composite is usually intractable. In this work, a new method is proposed based on reinforcement learning applied as an autonomous agent for arranging the microstructure that is composed of brittle and soft material. The resolution of the design space is enhanced in a progressive fashion, reaching increasingly higher resolution. The results show that the resulting high-resolution designs can significantly reduce stress concentrations at crack tips and enhance mechanical resilience. Complementing the experimental results with manufactured optimal composites shows excellent agreement with the optimal results obtained using the AI method. The framework reported in this work may serve as an alternative to conventional composite optimization techniques, which often suffer from the curse of high dimensionality and are also unable to effectively predict high-resolution designs, due to limitations of the algorithms to escape low-resolution local minima. The new approach discussed in this work can be widely applied in multiple areas of engineering and design, and the progressive multiresolution approach may also be critical for the de novo autonomous reinforcement engineering solution.
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -42,7 +49,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Paper Link
-   url: https://aip.scitation.org/doi/figure/10.1063/5.0097589
+   url: https://onlinelibrary.wiley.com/doi/full/10.1002/adts.202200459
 
 url_pdf: ''
 url_code: ''
