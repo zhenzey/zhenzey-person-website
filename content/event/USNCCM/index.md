@@ -36,14 +36,14 @@ image:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://www.dropbox.com/s/inmjbqanjpnoq0g/Yang%20%E2%80%93%20USNCCM16%20%E2%80%93%2021721532.mp4?dl=0'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
