@@ -42,6 +42,8 @@ featured: true
 links:
  - name: Paper Link
    url: https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202301449#
+ - name: Code
+   url: https://github.com/lamm-mit/FieldCompleter
 
 url_pdf: ''
 url_code: ''
