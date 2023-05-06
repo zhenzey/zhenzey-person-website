@@ -1,19 +1,11 @@
 ---
-title: 'Hierarchical Multiresolution Design of Bioinspired Structural Composites Using Progressive Reinforcement Learning'
+title: 'Fill in the Blank: Transferrable Deep Learning Approaches to Recover Missing Physical Field Information'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
- - Chi-Hua Yu 
- - Bor-Yann Tseng 
  - admin 
- - Cheng-Che Tung 
- - Elena Zhao 
- - Zhi-Fan Ren
- - Sheng-Sheng Yu 
- - Po-Yu Chen
- - Chuin-Shan Chen
  - Markus J. Buehler
 
 # Author notes (optional)
@@ -21,8 +13,8 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-08-17'
-doi: 'https://doi.org/10.1002/adts.202200459'
+date: '2023-03-19'
+doi: 'https://doi.org/10.1002/adma.202301449'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -34,10 +26,10 @@ doi: 'https://doi.org/10.1002/adts.202200459'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Advanced Theory and Simulations*
-publication_short: In *Adv. Theory Simul.*
+publication: In *Advanced Materials*
+publication_short: In *Adv. Mater.*
 
-abstract: A new method using reinforcement learning for designing bioinspired composite materials is proposed. While bioinspired design of materials is a promising avenue, the possible combination of building blocks in a composite is usually intractable. In this work, a new method is proposed based on reinforcement learning applied as an autonomous agent for arranging the microstructure that is composed of brittle and soft material. The resolution of the design space is enhanced in a progressive fashion, reaching increasingly higher resolution. The results show that the resulting high-resolution designs can significantly reduce stress concentrations at crack tips and enhance mechanical resilience. Complementing the experimental results with manufactured optimal composites shows excellent agreement with the optimal results obtained using the AI method. The framework reported in this work may serve as an alternative to conventional composite optimization techniques, which often suffer from the curse of high dimensionality and are also unable to effectively predict high-resolution designs, due to limitations of the algorithms to escape low-resolution local minima. The new approach discussed in this work can be widely applied in multiple areas of engineering and design, and the progressive multiresolution approach may also be critical for the de novo autonomous reinforcement engineering solution.
+abstract: Solving materials engineering tasks is often hindered by limited information, such as in inverse problems with only boundary data information or design tasks with a simple objective but a vast search space. To address these challenges, multiple deep learning (DL) architectures are leveraged to predict missing mechanical information given limited known data in part of the domain, and further characterize the composite geometries from the recovered mechanical fields for 2D and 3D complex microstructures. In 2D, a conditional generative adversarial network (GAN) is utilized to complete partially masked field maps and predict the composite geometry with convolutional models with great accuracy and generality by making precise predictions on field data with mixed stress/strain components, hierarchical geometries, distinct materials properties and various types of microstructures including ill-posed inverse problems. In 3D, a Transformer-based architecture is implemented to predict complete 3D mechanical fields from input field snapshots. The model manifests excellent performance regardless of microstructural complexity and recovers the entire bulk field even from a single surface field image, allowing internal structural characterization from only boundary measurements. The whole frameworks provide efficient ways for analysis and design with incomplete information and allow the direct inverse translation from properties back to materials structures.
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -49,7 +41,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Paper Link
-   url: https://onlinelibrary.wiley.com/doi/full/10.1002/adts.202200459
+   url: https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202301449#
 
 url_pdf: ''
 url_code: ''
