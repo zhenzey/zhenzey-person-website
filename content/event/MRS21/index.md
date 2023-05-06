@@ -1,4 +1,3 @@
-
 ---
 title: Deep Learning Model to Predict Complex Stress and Strain Fields in Hierarchical Composites
 
