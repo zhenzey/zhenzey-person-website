@@ -2,7 +2,7 @@
 ---
 title: Deep Learning Model to Predict Complex Stress and Strain Fields in Hierarchical Composites
 
-event: MRS Fall 2021
+event: MRSFall2021
 event_url: ""
 
 location: remote
