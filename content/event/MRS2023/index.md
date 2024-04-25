@@ -1,7 +1,7 @@
 ---
-title: Deep Learning Model to Predict Complex Stress and Strain Fields in Hierarchical Composites
+title: De novo design of polymer electrolyte with high ionic conductivity using GPT-based and diffusion-based generative models.
 
-event: USNCCM16
+event: MRS2023
 event_url: ""
 
 location: remote
@@ -11,7 +11,7 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-06-05T16:00:00Z'
+date: '2023-11-28T16:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -36,7 +36,7 @@ image:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 'https://www.dropbox.com/s/inmjbqanjpnoq0g/Yang%20%E2%80%93%20USNCCM16%20%E2%80%93%2021721532.mp4?dl=0'
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
