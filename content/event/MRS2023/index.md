@@ -4,7 +4,7 @@ title: De novo design of polymer electrolyte with high ionic conductivity using 
 event: MRS2023
 event_url: ""
 
-location: remote
+location: Boston
 
 summary: ""
 abstract: ""
