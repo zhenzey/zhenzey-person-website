@@ -1,7 +1,6 @@
 ---
 title: Fill in the Blank: Transferrable Deep Learning Approaches to Recover Missing Mechanical Field Information
 
-
 event: SES2023
 event_url: ""
 
