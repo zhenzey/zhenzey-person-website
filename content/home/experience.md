@@ -26,7 +26,7 @@ experience:
   - title: Summer intern
     company: Toyota Research Institute
     company_url: ''
-    company_logo: org-mit
+    company_logo: org-tri
     date_start: '2023-05-30'
     date_end: ''
     description: Working on AI for battery electrolyte materials.
