@@ -17,6 +17,8 @@ image:
 links:
   - name: Related paper (In preparaton, 2024)
     url: ''
+  - name: Related paper (In preparaton, 2024)
+    url: ''
 url_code: ''
 url_pdf: ''
 url_slides: ''
