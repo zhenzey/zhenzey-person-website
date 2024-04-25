@@ -23,7 +23,11 @@ links:
     url: https://www.sciencedirect.com/science/article/pii/S0022509621001721
   - name: Related paper (Adv. Mater, 2023)
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202301449
-url_code: ''
+url_code:
+  - name: FieldPredictorGAN codes
+  - url: 'https://github.com/lamm-mit/FieldPredictorGAN'
+  - name: FieldCompleter Codes
+  - url: 'https://github.com/lamm-mit/FieldCompleter'
 url_pdf: ''
 url_slides: ''
 url_video: ''
