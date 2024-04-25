@@ -24,9 +24,9 @@ links:
   - name: Related paper (Adv. Mater, 2023)
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202301449
   - name: FieldPredictorGAN codes
-  - url: 'https://github.com/lamm-mit/FieldPredictorGAN'
+    url: 'https://github.com/lamm-mit/FieldPredictorGAN'
   - name: FieldCompleter Codes
-  - url: 'https://github.com/lamm-mit/FieldCompleter'
+    url: 'https://github.com/lamm-mit/FieldCompleter'
 url_pdf: ''
 url_slides: ''
 url_video: ''
