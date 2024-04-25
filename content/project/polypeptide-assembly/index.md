@@ -1,8 +1,8 @@
 
 
 ---
-title: Learing 
-summary: High-throughput (HT) generation of graphene foams and property quantification using both ML and DL.
+title: Learning mechanical property and phase of polypeptide self-assemblies
+summary: Combining coarse-grained molecular dynamics simulation, machine learning, literature mining and atomic force microscopy to learn the self-assembly rule and mechanical properties of peptides. 
 tags:
   - Atomic
 
@@ -15,8 +15,8 @@ image:
   focal_point: Smart
 
 links:
-  - name: Related paper (Small Methods, 2022)
-    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/smtd.202200537
+  - name: Related paper (In preparaton, 2024)
+    url: ''
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -30,5 +30,5 @@ url_video: ''
 #   slides: example
 ---
 
-3D graphene assemblies are proposed as solutions to meet the goal toward efficient utilization of 2D graphene sheets, showing excellent performances in applications such as mechanical support, energy storage, and electrochemical catalysis. However, given the diversity and complexity of possible graphene 3D structures, there does not yet exist a systematic approach that can generate target 3D shapes and also, evaluate their performance. Here high-throughput data generation is combined with artificial intelligence approaches to realize rapid structure formation and property quantification of 3D graphene foams with mathematically controlled topologies, driven by molecular dynamics simulations. More than 4000 different foam structures are created, which feature diverse topologies that contain potential pathways for small molecules and auxetic structures with negative Poisson's ratio. Empowered by machine learning (ML) algorithms including graph neural networks, not only global properties such as elastic moduli, but also local behaviors such as atomic stress can be predicted and optimized based on their atomic structure, bypassing expensive atomistic simulations. The key findings of the research reported in this paper include a high-throughput virtual framework of generating diverse 3D graphene assemblies with mechanical performances quantification, and highly efficient methods of evaluating physical properties based on ML.
+Short peptides are known to have varied self-assembly behaviour, forming structures such as spheres, fibers and hydrogels. The functionality of these materials is intrinsically linked to their materials properties, with the Young's modulus being a key value that guides their applications. A high toughness is essential for applications such as structural support and in electronic devices, whereas softer materials are required for biomedical applications. However, the short peptide sequence space is vast, hence have the ability to predict the assembly and modulus of short peptides is a key tool for finding novel materials. Here, we present a combined approach to predicting the modulus of di- tri- and penta- peptides, and validate this data using nano mechanical mapping experiments. In order to predict modulus values, we first screen all sequences using coarse grained molecular dynamics, then perform hydrostatic testing each of the structures.
 
