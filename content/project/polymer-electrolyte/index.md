@@ -1,5 +1,5 @@
 ---
-title: Generative design of high-conductive polymer electrolyte.
+title: Generative design of highly conductive polymer electrolyte
 summary: GPT-based and diffusion-based model for conditional generation of polymer electrolyte with high conductivity, validated with MD simulations.  
 tags:
   - Atomic
