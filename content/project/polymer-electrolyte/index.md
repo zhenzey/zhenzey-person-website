@@ -16,9 +16,9 @@ image:
 
 
 links:
-  - name: Related paper (ArXiv, 2024)
+  - name: Related paper (arXiv:2312.06470, 2024)
     url: https://arxiv.org/abs/2312.06470
-  - name: Related paper (ArXiv, 2024)
+  - name: Related paper (arXiv:2312.04013, 2024)
     url: https://arxiv.org/abs/2312.04013
 
 url_code: ''
