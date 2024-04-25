@@ -6,23 +6,21 @@ tags:
 
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://news.mit.edu/2021/ai-materials-stress-strain-0422
-external_link: https://news.mit.edu/2023/deep-learning-system-explores-interiors-0428
+external_link: https://medium.com/toyotaresearch/designing-new-polymers-with-ai-31645c39316b
 
 image:
-  caption: MIT news
+  caption: TRI news
   focal_point: Smart
   
 
 
 
 links:
-  - name: Related paper (Sci. Adv., 2021)
-    url: https://www.science.org/doi/abs/10.1126/sciadv.abd7416
-  - name: Related paper (JMPS, 2021)
-    url: https://www.sciencedirect.com/science/article/pii/S0022509621001721
-  - name: Related paper (Adv. Mater, 2023)
-    url: https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202301449
+  - name: Related paper (ArXiv, 2024)
+    url: https://arxiv.org/abs/2312.06470
+  - name: Related paper (ArXiv, 2024)
+    url: https://arxiv.org/abs/2312.04013
+
 url_code: ''
 url_pdf: ''
 url_slides: ''
