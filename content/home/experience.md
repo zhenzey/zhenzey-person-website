@@ -28,7 +28,7 @@ experience:
     company_url: ''
     company_logo: org-tri
     date_start: '2023-05-30'
-    date_end: ''
+    date_end: '2023-08-17'
     description: Working on AI for battery electrolyte materials.
     
   - title: Graduate Research Assistant
