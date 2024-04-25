@@ -4,14 +4,14 @@ title: Transferrable Deep Learning Approaches to Recover Missing Mechanical Fiel
 event: SES2023
 event_url: ""
 
-location: remote
+location: Minneapolis
 
 summary: ""
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2031-10-09T16:00:00Z'
+date: '2023-10-09T16:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
